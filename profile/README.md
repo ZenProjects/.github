@@ -38,6 +38,6 @@ Display web pages as your screensaver with Chromium (CefSharp)
 
 SMTP pure PHP Mail Daemon (!!! Alpha project !!!)
 
-# [Javascrip OCRA implementation](https://github.com/ZenProjects/OCRAjs)
+# [Javascript OCRA implementation](https://github.com/ZenProjects/OCRAjs)
 
 OCRA: OATH Challenge-Response Algorithm implementation in Javascript
